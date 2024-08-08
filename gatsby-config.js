@@ -37,6 +37,6 @@ module.exports = {
     title: "JMM",
     description: "Web Dev Gatsby Portfolio",
     copyright: "This website is copyright 2024 JMM",
-    contact: "me@thejmmph.com",
+    contact: "jude11318@gmail.com",
   },
 };
