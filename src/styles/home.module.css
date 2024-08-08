@@ -3,6 +3,8 @@
   grid-template-columns: 1fr 1fr;
   grid-gap: 40px;
   align-items: center;
+  justify-content: center;
+  height: 70vh;
 }
 
 .header h2 {
